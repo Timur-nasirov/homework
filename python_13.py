@@ -1,4 +1,3 @@
-#импорт модулей
 from aiogram import Dispatcher, Bot, executor, types
 from aiogram.dispatcher.storage import FSMContext
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
